@@ -1,0 +1,49 @@
+.container {
+    width: 100%;
+    background-color: rgb(192, 255, 200);
+}
+.container-in {
+    width: 90%;
+    margin: auto;
+    background-color: rgb(246, 244, 250);
+    height: 100vh;
+}
+.calc {
+    border: 2px solid black;
+    padding: 20px;
+}
+.searchbar {
+
+}
+.searchbar-in {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 30px;
+
+    border: 3px solid red;
+}
+.searchbar-in h1 {
+    font-size: 50px;
+}
+.keys {
+    border: 1px solid black;
+    width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+    background-color: white;
+}
+.keypad {
+    display: flex;
+    margin: 10px 0px;
+}
+.keys2 { 
+    border: 1px solid black;
+ width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+    background-color: white;
+}}
